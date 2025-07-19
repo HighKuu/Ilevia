@@ -185,8 +185,8 @@ Voir le fichier `LICENSE` pour plus de détails.
 
 ## 📞 Contact
 
-- **Auteur** : [Votre nom]  
-- **Email** : [votre.email@example.com]  
+- **Auteur** : Halim  
+- **Email** : halim.moulay@gmail.com  
 - **Lien du projet** : [https://github.com/username/ilevia-transport-analysis](https://github.com/username/ilevia-transport-analysis)
 
 ---
