@@ -187,7 +187,7 @@ Voir le fichier `LICENSE` pour plus de détails.
 
 - **Auteur** : Halim  
 - **Email** : halim.moulay@gmail.com  
-- **Lien du projet** : [https://github.com/username/ilevia-transport-analysis](https://github.com/username/ilevia-transport-analysis)
+- **Lien du projet** : [[https://github.com/username/ilevia-transport-analysis](https://github.com/username/ilevia-transport-analysis)](https://github.com/HighKuu/Ilevia)
 
 ---
 
