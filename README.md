@@ -221,4 +221,4 @@ Les contributions sont bienvenues ! Zones d'amélioration :
 
 ---
 
-*Dernière mise à jour : [Date actuelle]*
+*Dernière mise à jour : [19/07/25]
