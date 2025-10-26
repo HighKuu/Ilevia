@@ -205,7 +205,7 @@ Les contributions sont bienvenues ! Zones d'amélioration :
 3. **Analyses prédictives** (retards, affluence)
 4. **Export** vers d'autres formats (GeoJSON, KML)
 
-## 📞 Contact
+## 📞 Sources
 
 - **Projet** : Analyse GTFS Ilevia MEL
 - **Source des données** : [Open Data Ilevia](https://opendata.ilevia.fr/)
